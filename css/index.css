@@ -1,0 +1,37 @@
+@font-face
+{
+	font-family:holy;
+	src:url('HolyRavioliNF.ttf');
+}
+body
+{
+	background-image:url('body.jpg'); 
+	background-repeat: no-repeat; 
+	background-size:cover;
+}
+.navbar-inverse .navbar-nav>li>a {
+    font-family:holy;
+	}
+
+a:hover ul{
+background-color:white;
+color:blue;}
+
+.navbar-inverse .navbar-brand {
+    font-family:holy;
+	letter-spacing:1.5px;
+	color: #9d9d9d;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+     height:535px;
+	 width: 100%;
+	 
+      
+  }
+  footer {
+            background-color: #333;
+            width: 100%;
+            bottom: 0;
+            position: fixed;
+        }
