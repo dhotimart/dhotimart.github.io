@@ -2,7 +2,15 @@
 {
 	font-family:holy;
 	src:url('HolyRavioliNF.ttf');
+	
 }
+@font-face
+{
+	font-family:rupee;
+	src:url('rupeefont.ttf');
+	
+}
+
 body
 {
 	background-image:url('body.jpg'); 
